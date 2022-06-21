@@ -6,7 +6,7 @@ function Contentpost() {
     <div className='contentpost'>
         <img className='round' src={propic} alt="" />
         <div>
-          venusai for ever
+          hey there welcome to git hubby
         </div>
     </div>
     
