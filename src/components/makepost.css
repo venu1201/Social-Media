@@ -1,0 +1,30 @@
+.makepost{
+    width: 100%;
+    height: 52px;
+    display: flex;
+    background-color:rgb(50, 109, 248);
+    gap: 0.4rem;
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.searchopt{
+    margin-left: 30px;
+    color: white;
+}
+.searchopt:hover{
+    cursor: pointer;
+}
+.searchinpost{
+    background-color: white;
+    border: none;
+    outline: none;
+    
+    margin-right: 40px;
+    height: 1.5rem;
+    width: 100%;
+    border-radius:20px ;
+}

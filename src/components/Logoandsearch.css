@@ -1,0 +1,32 @@
+.Logosearch{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+.search{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.2rem;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.textsearch{
+    height: 25px;
+    width: 210px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    
+    border: none;
+    outline: none;
+}
+.icon:hover {
+    background-color: aqua;
+    cursor: pointer;
+
+}

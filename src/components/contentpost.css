@@ -1,0 +1,11 @@
+.contentpost{
+    width: 100%;
+    background-color: white;
+    margin-top: 7px;
+    display: flex;
+}
+.round{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
