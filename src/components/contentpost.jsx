@@ -5,7 +5,11 @@ function Contentpost() {
   return (
     <div className='contentpost'>
         <img className='round' src={propic} alt="" />
+        <div>
+          helloworld
+        </div>
     </div>
+    
   )
 }
 
