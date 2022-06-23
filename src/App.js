@@ -1,15 +1,11 @@
 import React from "react";
-import './App.css';
-import Home from './pages/home'
+import Home from "./pages/home"
 function App() {
   return (
-      <div className="App">
-            <Home/>
-
-            
-      </div>
-      
-  ); 
+    <div className="bg-gray-400 h-full p-4 m-0" >
+        <Home/>
+    </div>
+  )
 }
 
 
