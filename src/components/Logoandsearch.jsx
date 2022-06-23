@@ -7,7 +7,7 @@ const Logosearch=()=>{
     return(
         <div className="w-full bg-white flex flex-col p-1 rounded-3xl">
         
-        <div className="w-full bg-white flex flex-col p-3 " >
+        <div className="w-full bg-white flex flex-col p-3 rounded-3xl" >
             <div className="flex justify-center align-middle m-3">
                 <b>Happy Birthday to my dear mates</b>
             </div>
