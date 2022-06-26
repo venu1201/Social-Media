@@ -2,7 +2,7 @@ import React from "react";
 import img1 from '../images/img1.jpg'
 const Trends=()=>{
     return (
-        <div className="flex bg-white mt-4 h-80 scroll overflow-y-scroll rounded-3xl w-full flex-col">
+        <div className="flex bg-white mt-2 h-80 scroll overflow-y-scroll rounded-3xl w-full flex-col">
             <div className="flex justify-center p-3 font-semibold m-2">
                 <b>Leaderboard</b>
             </div>
