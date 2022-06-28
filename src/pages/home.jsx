@@ -12,7 +12,7 @@ const Home=()=>{
     return(
         <div className="Home">
        
-            <div className="left" >
+            <div className="left overflow-auto" >
                 <div className="ml-1 mt-2">
                     <Logosearch/> 
                 </div>
@@ -22,13 +22,13 @@ const Home=()=>{
                  
                  
             </div>
-            <div className="middle mt-2">
+            <div className="middle mt-2 overflow-auto">
                 <Makepost/>
                 <Contentpost/>
                 <Allposts/>
                 
             </div>
-            <div className="profile mr-1 mt-2">
+            <div className="profile mr-1 mt-2 overflow-auto">
                 <Thingstodo/>
                 <Profilecard/>
 

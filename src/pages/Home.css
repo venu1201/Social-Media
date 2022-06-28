@@ -5,6 +5,7 @@
     display: grid;
     grid-template-columns: 25rem auto 22rem;
     gap: .5rem;
+    height: 100vh;
     
 }
 
