@@ -1,7 +1,5 @@
 import React from "react";
 
-import {UilSearch} from '@iconscout/react-unicons'
-import logo from '../images/fblogo.png'
 import img1 from '../images/img1.jpg'
 const Logosearch=()=>{
     return(
